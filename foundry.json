@@ -1,0 +1,11 @@
+{
+  "name": "Band Gap Analysis",
+  "version": "1.0.0",
+  "description": "Datasets for band gap uber model generation",
+  "private":true,
+  "dependencies":{
+    "_test_foundry_nrel_htem_v1.1": "1.1",
+    "_test_foundry_stein_v1.1": "1.1",
+    "_test_foundry_zhuo_band_gaps_v1.1":"1.1"
+  }
+}

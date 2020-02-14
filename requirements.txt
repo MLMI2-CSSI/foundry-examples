@@ -1,0 +1,3 @@
+mdf_forge >= 0.7.6
+click
+git+git://github.com/MLMI2-CSSI/foundry.git#egg=foundry
