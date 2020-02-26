@@ -7,6 +7,7 @@
     "_test_foundry_nrel_htem_v1.1": "1.1",
     "_test_foundry_stein_v1.1": "1.1",
     "_test_foundry_zhuo_band_gaps_v1.1":"1.1",
-    "_test_foundry_oqmd_band_gaps_v1.1":"1.1"
+    "_test_foundry_oqmd_band_gaps_v1.1":"1.1",
+    "_test_foundry_aflow_band_gaps_v1.1":"1.1"
   }
 }
